@@ -1,2 +1,2 @@
 # rust_journey
-A compilation of projects and codes
+A compilation of my RUST projects and codes
